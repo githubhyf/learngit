@@ -1,2 +1,1 @@
-GitHub is a free soft!
-添加新的分支dev！
+creating a new branch and fast
